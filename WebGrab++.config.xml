@@ -17,7 +17,6 @@
   <!-- timespan 0 is one day -->
   <timespan>0</timespan>
   <update>i</update>
-  
 
   <channel update="i" site="avcsa.com.ar" site_id="756" xmltv_id="DISNEY JR *HD">DISNEY JR *HD</channel>
   <channel update="i" site="avcsa.com.ar" site_id="757" xmltv_id="DISNEY JR *FHD">DISNEY JR *FHD</channel>
