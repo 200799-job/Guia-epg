@@ -1,13 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="DISNEY JR">
-    <display-name lang="es">DISNEY JR</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
+  <channel id="Saeta (Canal 10)">
+    <display-name lang="es">Saeta (Canal 10)</display-name>
+    <url>http://www.cablevision.com.uy</url>
   </channel>
-  <channel id="ARGENTINISIMA SATELITAL">
-    <display-name lang="es">ARGENTINISIMA SATELITAL</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
+  <channel id="Canal 4 Montecarlo">
+    <display-name lang="es">Canal 4 Montecarlo</display-name>
+    <url>http://www.cablevision.com.uy</url>
+  </channel>
+  <channel id="Antena 3">
+    <display-name lang="es">Antena 3</display-name>
+    <url>http://www.atresplayer.com</url>
   </channel>
 </tv>
