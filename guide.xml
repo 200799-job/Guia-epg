@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="DISNEY JR">
+    <display-name lang="es">DISNEY JR</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="ARGENTINISIMA SATELITAL">
+    <display-name lang="es">ARGENTINISIMA SATELITAL</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+</tv>
