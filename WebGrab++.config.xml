@@ -17,12 +17,12 @@
   <!-- timespan 0 is one day -->
   <timespan>0</timespan>
   <update>i</update>
-
+<channels>
   <channel update="i" site="avcsa.com.ar" site_id="756" xmltv_id="DISNEY JR *HD">DISNEY JR *HD</channel>
   <channel update="i" site="avcsa.com.ar" site_id="757" xmltv_id="DISNEY JR *FHD">DISNEY JR *FHD</channel>
   <channel update="i" site="avcsa.com.ar" site_id="758" xmltv_id="DISNEY JR *HQ">DISNEY JR *HQ</channel>
-  <channel update="i" site="avcsa.com.ar" site_id="57" xmltv_id="ARGENTINISIMA SATELITAL *HD">ARGENTINISIMA *HD</channel>
-  <channel update="i" site="avcsa.com.ar" site_id="58" xmltv_id="ARGENTINISIMA SATELITAL *HQ">ARGENTINISIMA *HQ</channel>
-  <channel update="i" site="avcsa.com.ar" site_id="60" xmltv_id="ARGENTINISIMA SATELITAL *FHD">ARGENTINISIMA *FHD</channel>
-
+  <channel update="i" site="avcsa.com.ar" site_id="57" xmltv_id="ARGENTINISIMA *HD">ARGENTINISIMA *HD</channel>
+  <channel update="i" site="avcsa.com.ar" site_id="58" xmltv_id="ARGENTINISIMA *HQ">ARGENTINISIMA *HQ</channel>
+  <channel update="i" site="avcsa.com.ar" site_id="60" xmltv_id="ARGENTINISIMA *FHD">ARGENTINISIMA *FHD</channel>
+<channels>
 </settings>
