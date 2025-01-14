@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+
+ </channel>
+  <channel id="DISNEY CHANNEL *FHD">
+    <display-name lang="es">DISNEY CHANNEL *FHD</display-name>
+  </channel>
+
+    <programme start="20250114T060000" stop="20250114T063000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
+        <desc lang="es">Nino está interesado en Marinette pero no sabe como decírselo, así que Adrien organiza una salida al zoo con Marinette, Alya y Nino.</desc>
+        <category lang="es">Temporada 1 Episodio 16 - Animan</category>
+    </programme>
+    
+    <programme start="20250114T063000" stop="20250114T065500" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Enredados otra vez: la serie</title>
+        <desc lang="es">Cassandra obtiene su gran oportunidad y se le asigna el deber de guardia y descubre que hay algunas cosas más importantes que la ambición.</desc>
+        <category lang="es">Temporada 1 Episodio 8 - Exposición de ciencias</category>
+    </programme>
+    
+    <programme start="20250114T065500" stop="20250114T070000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Star vs. Las fuerzas del mal</title>
+        <desc lang="es">Star se siente triste porque no la llama el chico que le gusta, Oskar, así que Marco intenta animarla pero por accidente reúne a Ludo y su ejército de nuevos monstruos.</desc>
+        <category lang="es">Temporada 1 Episodio 4 - Ánimo, Star</category>
+    </programme>
+    
+    <programme start="20250114T070000" stop="20250114T071500" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Las aventuras de Pilar</title>
+        <desc lang="es">Después de una noche de pesadillas, Pilar viaja con Breno y Samba a Cilicia en busca de consejos de Argos Panoptes, el gigante de cien ojos, ya que quiere aprender la técnica de dormir con un ojo y mantenerse despierta con el otro.</desc>
+        <category lang="es">Temporada 1 Episodio 9 - Argos con los 100 ojos</category>
+    </programme>
+    
+    <programme start="20250114T071500" stop="20250114T073000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Cortos Mickey Mouse</title>
+        <desc lang="es">Mickey entra en una competencia de rodeo para rescatar a sus amigos de una situación desesperada./ Mickey y sus amigos protagonizan este episodio inspirado en Blancanieves./ Mickey y Donald ayudan a Goofy en una entrevista de trabajo.</desc>
+        <category lang="es">Temporada 2 Episodio 13 - Donald, indomable / La banda de un solo hombre / La gran entrevista</category>
+    </programme>
+    
+    <programme start="20250114T073000" stop="20250114T080000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Phineas y Ferb</title>
+        <desc lang="es">Phineas y Ferb crean y se infiltran en Antius Maximus, una enorme granja de hormigas llena de hormigas gigantes. Por otro lado, después de perder un regalo que Jeremy le hizo, Candace está decidida a recrearlo.</desc>
+        <category lang="es">Temporada 3 Episodio 17 - El subconsciente de Candace / Enorm-igas</category>
+    </programme>
+    
+    <programme start="20250114T080000" stop="20250114T081500" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Trompa Tren</title>
+        <desc lang="es">Una parada temporal es la oportunidad perfecta para explorar un paisaje desconocido. Mientras el tren permanece estacionado por un tiempo, Gajah tiene ganas de conocer un poco más el sitio y decide salir a caminar por la montaña.</desc>
+        <category lang="es">Temporada 1 Episodio 9 - Chinchilla y Alpaca</category>
+    </programme>
+    
+    <programme start="20250114T081500" stop="20250114T083000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Trompa Tren</title>
+        <desc lang="es">El tren llega al desierto de Atacama. Allí, Gajah, Duda y las termitas conocen a dos flamencos, Oswaldo, un astrónomo, y Teobaldo, un arqueólogo. Pero solo Gajah y el Capitán podrán resolver los conflictos de los flamencos.</desc>
+        <category lang="es">Temporada 1 Episodio 10 - Vecinos de las estrellas</category>
+    </programme>
+    
+    <programme start="20250114T083000" stop="20250114T090000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Los Green en la gran ciudad</title>
+        <desc lang="es">Bill descubre que Gramma ha estado asustando a los visitantes a propósito, así que lanza una barbacoa para hacerse amigo de ellos./ Cricket crea un falso pozo de deseos para hacer dinero, pero cuando Tilly lo usa, se enfrenta a un dilema.</desc>
+        <category lang="es">Temporada 2 Episodio 2 - Leyenda urbana / El pozo de los deseos</category>
+    </programme>
+    
+    <programme start="20250114T090000" stop="20250114T092500" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Kiff</title>
+        <desc lang="es">Kiff está decidido a ver el interior del Faculty Lounge, pero una vez dentro lucha por escapar. / Kiff intenta fracasar como asistente personal de Helen para poder volver a realizar su examen profesional.</desc>
+        <category lang="es">Temporada 1 Episodio 19 - Sala de profesores / Asistente personal</category>
+    </programme>
+    
+    <programme start="20250114T092500" stop="20250114T093000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Phineas y Ferb</title>
+        <desc lang="es">El Dr. Doofenshmirtz tiene la intención de ganar un concurso de pastel de carne con una receta familiar y una pistola de rayos Rotten-inator.</desc>
+        <category lang="es">Temporada 3 Episodio 7 - El mega fabuloso súper palacio brincolín de Phineas y Ferb</category>
+    </programme>
+    
+    <programme start="20250114T093000" stop="20250114T100000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Anfibilandia</title>
+        <desc lang="es">Anne finge enfermarse para salir del trabajo, pero el resto de la familia se enferma. / Sprig y Polly piensan que su historia familiar es aburrida hasta que descubren secretos familiares.</desc>
+        <category lang="es">Temporada 1 Episodio 8 - La peste / El árbol de la familia</category>
+    </programme>
+    
+    <programme start="20250114T100000" stop="20250114T103000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Hamster & Gretel</title>
+        <desc lang="es">Hamster y Gretel deben derrotar a un gato villano inspirado en los cómics. / Hamster y Gretel se enfrentan a un villano mitad hombre mitad caballo, al que le encanta la fiesta.</desc>
+        <category lang="es">Temporada 1 Episodio 5 - Imitador felino / ¡Naaa, no es cierto!</category>
+    </programme>
+    
+    <programme start="20250114T103000" stop="20250114T110000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">El fantasma y Molly McGee</title>
+        <desc lang="es">Después de que Scratch abandona y se toma el día libre con Geoff, debe superar la prueba de miedo. / Molly y Scratch se enteran del antiguo amor de Patty, Bobby Daniels, entonces intentan reunir a los tortolitos.</desc>
+        <category lang="es">Temporada 1 Episodio 15 - La táctica del susto / Bobby Daniels, el chico malo</category>
+    </programme>
+    
+    <programme start="20250114T110000" stop="20250114T113000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
+        <desc lang="es">Ladybug y Cat Noir no solo enfrentarán a Hawk Moth, sino también a la villana Mayura.</desc>
+        <category lang="es">Temporada 3 Episodio 16 - Festín</category>
+    </programme>
+    
+    <programme start="20250114T113000" stop="20250114T114500" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Tara Duncan</title>
+        <desc lang="es">La Emperatriz envía a Tara y sus amigos al Reino Enano para traerle un regalo para la delegación de los elfos que pronto llegará. Tara tendrá que aprender el arte de la diplomacia.</desc>
+        <category lang="es">Temporada 1 Episodio 14 - Los enanos guerreros</category>
+    </programme>
+    
+    <programme start="20250114T114500" stop="20250114T120000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">ZOMBIES: La serie re-animada</title>
+        <desc lang="es">El estrés de dirigir la obra escolar hace que la energía alienígena de Addison se estropee; Wyatt se asocia con Eliza para ayudarlo a guardar un secreto de la manada de lobos.</desc>
+        <category lang="es">Temporada 1 Episodio 7 - Foul Play / Catch Meat If You Can</category>
+    </programme>
+    
+    <programme start="20250114T120000" stop="20250114T123000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Phineas y Ferb</title>
+        <desc lang="es">Un supervillano deafía a Phineas y Ferb luego de que los chicos fueran confundidos con superhéroes. Mientras el supervillano siembra el caos, es tarea de Phineas y Ferb detenerlo.</desc>
+        <category lang="es">Temporada 2 Episodio 53 - Halcón</category>
+    </programme>
+    
+    <programme start="20250114T123000" stop="20250114T130000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">La familia Proud</title>
+        <desc lang="es">Penny tiene 14 años, grandes ansias de crecer pero al mismo tiempo debe resolver los dilemas típicos de la adolescencia, tarea que no le resulta nada fácil con su pecualiar familia.</desc>
+        <category lang="es">Temporada 2 Episodio 29 - She Drives Me Crazy</category>
+    </programme>
+    
+    <programme start="20250114T130000" stop="20250114T133000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Zack y Cody: gemelos en acción</title>
+        <desc lang="es">La vida de Zack y Cody da un vuelco inesperado cuando su madre consigue un trabajo como cantante en uno de los hoteles más importantes de Boston. Mientras su mamá trabaja para mantenerlos fuera de problemas.</desc>
+        <category lang="es">Temporada 1 Episodio 49</category>
+    </programme>
+    
+    <programme start="20250114T133000" stop="20250114T140000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Sunny, entre estrellas</title>
+        <desc lang="es">El elenco se prepara para una semana de vacaciones y el hermano mayor de Grady, Grant, llega de visita. Luego Chad le presenta una lista de exigencias al Sr Condor, pero lo despiden y Grant lo reemplaza.</desc>
+        <category lang="es">Temporada 2 Episodio 23 - Sunny y la invención de Grant</category>
+    </programme>
+    
+    <programme start="20250114T140000" stop="20250114T143000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Agente KC</title>
+        <desc lang="es">K.C. intenta convencer a sus padres de que su hermano, Ernie, está listo para convertirse en espía.</desc>
+        <category lang="es">Temporada 1 Episodio 2 - Mi hermana postiza</category>
+    </programme>
+    
+    <programme start="20250114T143000" stop="20250114T150000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">A todo ritmo</title>
+        <desc lang="es">Si CeCe falla su prueba de álgebra, sus padres le hará dejar el espectáculo. CeCe consigue un tutor - un genio de ocho años llamado Henry. Sin embargo, resulta que ella no estúpida - sólo disléxica.</desc>
+        <category lang="es">Temporada 1 Episodio 4 - A todo sumar</category>
+    </programme>
+    
+    <programme start="20250114T150000" stop="20250114T153000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Gravity Falls: un verano de misterios</title>
+        <desc lang="es">Dipper, Soos y Wendy deben salvar a Mabel de un extraño mundo nuevo mientras que las fuerzas de Bill planean su siguiente jugada.</desc>
+        <category lang="es">Temporada 2 Episodio 19 - Raromageddon 2: Escape de la realidad</category>
+    </programme>
+    
+    <programme start="20250114T153000" stop="20250114T160000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">La casa de Raven</title>
+        <desc lang="es">Una de las gemelas de Raven ha heredado su capacidad de ver el futuro.</desc>
+        <category lang="es">Temporada 2 Episodio 14 - Sleevemore - Parte tres: Futuro</category>
+    </programme>
+    
+    <programme start="20250114T160000" stop="20250114T163000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Liv y Maddie</title>
+        <desc lang="es">Liv tiene ganglios vocales y tiene que evitar cantar hasta que se opere. Desafortunadamente, ella tiene que cantar para un evento en vivo "Sing it Live".</desc>
+        <category lang="es">Temporada 4 Episodio 14 - En vivo con los Rooney</category>
+    </programme>
+    
+    <programme start="20250114T163000" stop="20250114T170000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Kiff</title>
+        <desc lang="es">El plan de Kiff de infiltrarse en una fiesta de pijamas grupal y conocer sus secretos depende de la capacidad de Barry para mentir. / Kiff y Barry intentan que un vendedor de entradas de cine local les ponga un apodo.</desc>
+        <category lang="es">Temporada 1 Episodio 12 - Dos verdades y un Barry / Apodos</category>
+    </programme>
+    
+    <programme start="20250114T170000" stop="20250114T173000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Kiff</title>
+        <desc lang="es">La escuela Table Town está presentando su primer musical, lástima que se trata de Helen. / Los Chatterley encuentran cada uno un obstáculo durante su viaje semanal de compras.</desc>
+        <category lang="es">Temporada 1 Episodio 13 - El sonido de Helen / La compra semanal</category>
+    </programme>
+    
+    <programme start="20250114T173000" stop="20250114T174500" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">ZOMBIES: La serie re-animada</title>
+        <desc lang="es">Bucky convierte la escuela en una distopía con su temática. Bonzo descubre planos misteriosos en la cafetería y se obsesiona con la idea de construir una catarata de espagueti.</desc>
+        <category lang="es">Temporada 1 Episodio 5 - La invasión de los Buckys / La cena</category>
+    </programme>
+    
+    <programme start="20250114T174500" stop="20250114T180000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Tara Duncan</title>
+        <desc lang="es">El tartamudeo de Gloria la pone ansiosa durante el Celeste Ball, el deporte favorito del Otro Mundo. La niña le pide a Tara que lance un hechizo para darle valor.</desc>
+        <category lang="es">Temporada 1 Episodio 3 - La bestia lowcospeediana</category>
+    </programme>
+    
+    <programme start="20250114T180000" stop="20250114T183000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
+        <desc lang="es">Bob Roth envía una llamada a los artistas jóvenes para que le envíen videos musicales para hacerlos famosos. Sin embargo, esto es una artimaña, de modo que su hijo XY pueda plagiarlos para compensar su falta de talento.</desc>
+        <category lang="es">Temporada 3 Episodio 6 - Silenciador</category>
+    </programme>
+    
+    <programme start="20250114T183000" stop="20250114T190000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">The Owl House - La Casa Búho</title>
+        <desc lang="es">Cuando los padres de Amity consiguen que Luz, Willow y Gus sean expulsados de Hexside, Luz hace un trato peligroso con ellos para volver a la escuela.</desc>
+        <category lang="es">Temporada 2 Episodio 2 - Salvarse de la expulsión</category>
+    </programme>
+    
+    <programme start="20250114T190000" stop="20250114T193000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Los Green en la gran ciudad</title>
+        <desc lang="es">Un nuevo Burger Clown se abre al lado de los Greens lo que emociona a Cricket. Cuando Bill le dice que se aburrirá de comer allí en una semana, Cricket lo toma como un desafío y trata de comer allí todos los días.</desc>
+        <category lang="es">Temporada 2 Episodio 27 - El amante de la comida rápida / La teoría del espagueti</category>
+    </programme>
+    
+    <programme start="20250114T193000" stop="20250114T200000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Acampados</title>
+        <desc lang="es">Lou asigna los papeles para la Semana del Renacimiento. Finn es el rey y gobierna en el campamento durante una semana, pero termina enloqueciendo a todos.</desc>
+        <category lang="es">Temporada 4 Episodio 14 - Revuelta de campistas</category>
+    </programme>
+    
+    <programme start="20250114T200000" stop="20250114T203000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">¡Lucha! Despierta tu naturaleza</title>
+        <desc lang="es">Lucía comienza a adaptarse a la vida en el campo, sigue entablando relación con su abuela Bea, conociendo sus misteriosos secretos y a la par va encontrando un compañero de banda musical en Grillo.</desc>
+        <category lang="es">Temporada 1 Episodio 2 - Como los pájaros</category>
+    </programme>
+    
+    <programme start="20250114T203000" stop="20250114T210000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Los hechiceros de Waverly Place</title>
+        <desc lang="es">Alex falta al entrenamiento de hechiceros para asistir la venta loca de 10 minutos a fin de comprar la chaqueta de su rival Gigi.</desc>
+        <category lang="es">Temporada 1 Episodio 1 - La venta loca de diez minutos</category>
+    </programme>
+    
+    <programme start="20250114T210000" stop="20250114T213000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
+        <desc lang="es">Una red secreta en la escuela está decidida a descubrir cómo funciona el nuevo poder del monarca activando deliberadamente un akumati. ¿Estarían Ladybug y Cat Noir de acuerdo con tal plan?</desc>
+        <category lang="es">Temporada 5 Episodio 109 - Ilusión</category>
+    </programme>
+    
+    <programme start="20250114T213000" stop="20250114T220000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
+        <desc lang="es">Mientras Marinette y Adrien se preguntan sobre sus sentimientos, Ladybug y Cat Noir se enfrentan a una villana... ¡y sus 17 matones!</desc>
+        <category lang="es">Temporada 5 Episodio 110 - Determinación</category>
+    </programme>
+    
+    <programme start="20250114T220000" stop="20250114T223000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
+        <desc lang="es">Mientras Marinette intenta convencerse a sí misma de que ama a Cat Noir para tratar de olvidarse de Adrien, Adrien, que ha renunciado a estar enamorado de Ladybug, intenta encontrar una manera de declararle sus sentimientos a Marinette.</desc>
+        <category lang="es">Temporada 5 Episodio 6 - Pasión</category>
+    </programme>
+    
+    <programme start="20250114T223000" stop="20250114T230000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
+        <desc lang="es">Para saber más sobre sus posibilidades amorosas, Marinette recurre a una capacidad que desconocía de su amuleto, contactar a un portador del pasado.</desc>
+        <category lang="es">Temporada 5 Episodio 8 - Reunión</category>
+    </programme>
+    
+    <programme start="20250114T230000" stop="20250114T233000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Gravity Falls: un verano de misterios</title>
+        <desc lang="es">Cuando Dipper desea volver el tiempo atrás y deshacer un error que cometió, descubre que hay una máquina del tiempo que puede ayudarlo a hacer justamente eso.</desc>
+        <category lang="es">Episodio 9 - El cerdito del viajero del tiempo</category>
+    </programme>
+    
+    <programme start="20250114T233000" stop="20250114T000000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">La casa de Raven</title>
+        <desc lang="es">Booker se une al club de ballet para conquistar a Danni, pero lo deja cuando el chico más cool de la escuela se burla de él.</desc>
+        <category lang="es">Temporada 3 Episodio 12 - Leotardo de viernes por la noche</category>
+    </programme>
+    
+    <programme start="20250114T000000" stop="20250114T003000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Liv y Maddie</title>
+        <desc lang="es">Liv tiene ganglios vocales y tiene que evitar cantar hasta que se opere. Desafortunadamente, ella tiene que cantar para un evento en vivo "Sing it Live".</desc>
+        <category lang="es">Temporada 4 Episodio 14 - En vivo con los Rooney</category>
+    </programme>
+    
+    <programme start="20250114T003000" stop="20250114T010000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Kiff</title>
+        <desc lang="es">Kiff y Barry intervienen cuando Helen reemplaza a la secretaria principal./ Kiff y su madre reciben un siniestro golpe en el trasero.</desc>
+        <category lang="es">Temporada 1 Episodio 28 - Directora Helen / Marque B para Butt</category>
+    </programme>
+    
+    <programme start="20250114T010000" stop="20250114T013000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Kiff</title>
+        <desc lang="es">Barry está encantado cuando su enérgico tío Pat lo visita / Kiff intenta escapar de la casa después de ser castigado por avergonzar a Beryl.</desc>
+        <category lang="es">Temporada 1 Episodio 29 - Cool tío Pat / ¡Kiff escapa!</category>
+    </programme>
+    
+    <programme start="20250114T013000" stop="20250114T014500" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">ZOMBIES: La serie re-animada</title>
+        <desc lang="es">Eliza y Bucky compiten para ver cuál expendedora es mejor. Zed y Addison usan la hora libre para enseñarle a la estresada A-Spen a relajarse.</desc>
+        <category lang="es">Temporada 1 Episodio 2 - Enojados con la expendedora / Jóvenes, salvajes y hora libre</category>
+    </programme>
+    
+    <programme start="20250114T014500" stop="20250114T020000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Tara Duncan</title>
+        <desc lang="es">Al salvar a Tara de los Fear Soldiers, Carol se convierte en una estrella en el Otro Mundo. A ella le gusta esto y se atreve a burlarse de Magister. Ofendido, propone un duelo mágico para la joven.</desc>
+        <category lang="es">Temporada 1 Episodio 52 - Carol es una estrella</category>
+    </programme>
+    
+    <programme start="20250114T020000" stop="20250114T023000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
+        <desc lang="es">Preocupadas porque Marinette guarda secretos constantemente, Alya, Juleka, Rose, Alix y Mylène vienen a su casa para hablar. Cuando Marinette las echa, las chicas son akumatizadas como un grupo de villanas anti secretos.</desc>
+        <category lang="es">Temporada 4 Episodio 3 - El grupo de los secretos</category>
+    </programme>
+    
+    <programme start="20250114T023000" stop="20250114T030000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">The Owl House - La Casa Búho</title>
+        <desc lang="es">Cuando King se convierte en un autor de libros existosos en ventas, aprende una valiosa lección en la lectura de la letra pequeña.</desc>
+        <category lang="es">Temporada 1 Episodio 11 - Sensatez y resentimientos</category>
+    </programme>
+    
+    <programme start="20250114T030000" stop="20250114T033000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Los Green en la gran ciudad</title>
+        <desc lang="es">Remy descubre que Cricket es la clave de la popularidad en una nueva aplicación para compartir videos y lo sigue presionando para que haga acrobacias peligrosas para obtener vistas.</desc>
+        <category lang="es">Temporada 2 Episodio 28 - Batalla campal / Animación abominable</category>
+    </programme>
+    
+    <programme start="20250114T033000" stop="20250114T040000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Acampados</title>
+        <desc lang="es">Tiffany y Zuri tienen la esperanza de que van a bailar con un chico guapo, Griff, en el baile anual. Emma comienza a sentir celos cuando descubre que Lou y Xander son más que amigos desde hace mucho tiempo y que solían salir.</desc>
+        <category lang="es">Temporada 2 Episodio 2 - Con el ritmo en la piel</category>
+    </programme>
+    
+    <programme start="20250114T040000" stop="20250114T043000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Sydney como Max</title>
+        <desc lang="es">El último día de clases, Syd lee todas las notas de su anuario y nota una nota anónima de alguien que confiesa que está enamorado de ella.</desc>
+        <category lang="es">Temporada 2 Episodio 13 - La hora del flechazo</category>
+    </programme>
+    
+    <programme start="20250114T043000" stop="20250114T050000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Los hechiceros de Waverly Place</title>
+        <desc lang="es">Cuando Alex usa una poción para conseguir un chico que le guste, accidentalmente bebe la dosis entera y se enamora de ella misma.</desc>
+        <category lang="es">Temporada 1 Episodio 11 - Conmoción con pociones</category>
+    </programme>
+    
+    <programme start="20250114T050000" stop="20250114T053000" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Star vs. Las fuerzas del mal</title>
+        <desc lang="es">Star continúa buscando a su madre, lo que la lleva a la casa de Pie Folk.</desc>
+        <category lang="es">Temporada 4 Episodio 58 - Escapar de los pasteleños</category>
+    </programme>
+    
+    <programme start="20250114T053000" stop="20250114T053100" channel="DISNEY CHANNEL *FHD">
+        <title lang="es">Los Green en la gran ciudad</title>
+        <desc lang="es">La jefa de Grillo y Gloria, la señorita Cho, los desafía a conseguir una de las últimas bolsas de café en la ciudad. / Cuando Phoenix se escapa, los Green se disponen a encontrarla.</desc>
+        <category lang="es">Temporada 1 Episodio 18 - La búsqueda del café / Perdida en Gran Ciudad</category>
+    </programme>
+    </tv>
